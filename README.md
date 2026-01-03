@@ -32,5 +32,8 @@ This dashboard was created to help marketing teams quickly assess campaign perfo
 * Which channels deliver the highest ROI
 * Seasonal or yearly performance shifts
 
+## Dashboard Preview
+
+
 
 
