@@ -33,7 +33,7 @@ This dashboard was created to help marketing teams quickly assess campaign perfo
 * Seasonal or yearly performance shifts
 
 ## Dashboard Preview
-[Marketing Dashboard] https://github.com/nehakumari-ds/Marketing-Performance-Dashboard/blob/main/Marketing%20Peformance%20Dashboard%20Image%20.png
+![Marketing Dashboard] https://github.com/nehakumari-ds/Marketing-Performance-Dashboard/blob/main/Marketing%20Peformance%20Dashboard%20Image%20.png
 
 
 
